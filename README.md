@@ -4,7 +4,7 @@ JSUC3Mbot
 
 Es, o será, una serie de scripts en Node.js para hacer [cosas nazis](http://www.youtube.com/watch?v=jtSkorBcyBU) con el Wiki en Github de JSUC3M, y lo que se nos ocurra.
 
-Está hecho en (Coffeescript)[http://coffeescript.org/], que viene siendo Javascript pero más legible (sobre todo con menos dolores de cabeza con los callbacks anidados). Se "traduce" a Javascript con una pequeña utilidad de Node, o se puede ejecutar tal cual (pero acaba siendo Javascript al fin y al cabo). Podéis probarlo en http://js2coffee.org/
+Está hecho en [Coffeescript](http://coffeescript.org/), que viene siendo Javascript pero más legible (sobre todo con menos dolores de cabeza con los callbacks anidados). Se "traduce" a Javascript con una pequeña utilidad de Node, o se puede ejecutar tal cual (pero acaba siendo Javascript al fin y al cabo). Podéis probarlo en http://js2coffee.org/
 
 ### Cosas que hace:
 * Utilizando la libreria [gift](https://github.com/sentientwaffle/gift), hace un pull el repositorio donde se almacena el Wiki, cambia una página del mismo (por ahora sólo añade un timestamp y "Hola mundo"), hace un commit con dicho cambio, y un push para subirlo.
