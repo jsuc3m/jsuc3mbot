@@ -11,6 +11,8 @@ Está hecho en [Coffeescript](http://coffeescript.org/), que viene siendo Javasc
 
 ### Cosas que puede que acabe haciendo:
 * Servir de utilidad para crear páginas de reuniones, cambiarlas en masa, añadir un servidor con un botón que permita añadir fácilmente si vas o no vas, etc, añadiendo algun servidor web con Connect.js
+* Twittear! (y por qué no?)
+ 
 
 ### Haciendolo funcionar
 * Hace falta tener node.js y npm instalado, tener Github en la organización jsuc3m, y tener las claves SSH configuradas para que git no pida contraseña.
